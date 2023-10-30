@@ -12,7 +12,7 @@ class SecondPage extends StatelessWidget {
         title: Text(username),
         actions: <Widget>[
           IconButton(
-            icon: Icon(Icons.exit_to_app),
+            icon: const Icon(Icons.exit_to_app),
             onPressed: () {
               Navigator.pop(context);
             },
