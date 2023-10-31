@@ -12,7 +12,7 @@ const List<Color> _colorThemes = [
   Colors.pink,
 ];
 
-class AppTheme {
+class AppTheme { 
   final int selectedColor;
 
   AppTheme({this.selectedColor = 0})

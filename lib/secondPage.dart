@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class SecondPage extends StatelessWidget {
+class SecondPage extends StatelessWidget { 
   final String username;
 
   SecondPage(this.username);
@@ -24,4 +24,4 @@ class SecondPage extends StatelessWidget {
       ),
     );
   }
-}
+}   
